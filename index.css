@@ -1,0 +1,16 @@
+body {
+    background-color: linear-gra; 
+    min-height: 100vh;
+} 
+#container {
+    display: grid; 
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    width: 150px; 
+    gap: 5px;
+
+} 
+
+letter {
+    background-color: violet; 
+    padding: 10px;
+}
